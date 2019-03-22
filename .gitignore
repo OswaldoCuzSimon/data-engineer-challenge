@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints/
+__pycache__/*
+env2/
+env/
+sample_input.txt
+trainingdata.txt
